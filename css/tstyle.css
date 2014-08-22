@@ -1,0 +1,12 @@
+body {
+	background: #52596b;
+}
+header {
+	height: 13px;
+	width: 100%;
+	position: absolute;
+	top: 0;
+	left: 0;
+	background: url(../img/stripes.png);
+	background-position: 0px 0px, center;
+}
